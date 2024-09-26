@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("translate-mock-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+568f16084296a805edb7ae3d0da1ea7e8ad1483d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c485b80aa0f33f7b875409da610a7c923b175385")]
 [assembly: System.Reflection.AssemblyProductAttribute("translate-mock-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("translate-mock-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
