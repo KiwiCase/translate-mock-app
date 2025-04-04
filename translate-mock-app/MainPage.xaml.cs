@@ -19,13 +19,6 @@ namespace translate_mock_app
             }
         }
 
-        public MainPage()
-        {
-            InitializeComponent();
-            BindingContext = this;
-            TranslationResult = "No translation yet."; // Initialize with a default value
-        }
-
         private void InitializeComponent()
         {
 
